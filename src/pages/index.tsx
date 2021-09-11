@@ -1,5 +1,7 @@
-import Main from 'components/templates/Main'
-
 export default function Index() {
-  return <Main />
+  return (
+    <div>
+      <h1>oi mundo</h1>
+    </div>
+  )
 }
