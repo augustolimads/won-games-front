@@ -16,7 +16,7 @@
 ## How to run this project
 1. you can fork this repo and using as template for start you projects
 2. clone the repo from the Github repository
-3. run the following commands from the project root directory (pleae use yarn instead of npm)
+3. run the following commands from the project root directory (please use yarn instead of npm)
   
   `yarn install`
   
